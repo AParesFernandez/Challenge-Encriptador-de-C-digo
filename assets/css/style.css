@@ -1,0 +1,55 @@
+body {
+    background-image: url('/assets/img/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Arial', sans-serif;
+}
+
+.logo {
+    width: 60px;
+    margin: 30px;
+}
+
+textarea {
+    height: 150px;
+    resize: none;
+    background-color: #99bfce !important;
+}
+
+.form-text {
+    font-size: 12px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #1c3a73;
+}
+
+.btn-primary {
+    background-color: #1c3a73;
+    border-color: #1c3a73;
+}
+
+.btn-outline-primary {
+    border-color: #1c3a73;
+    color: #1c3a73;
+}
+
+#mensaje-advertencia{
+    color: #ffffff !important;
+}
+
+#mensajeEstado {
+    color: #ffffff !important;
+    font-size: 16px;
+    text-align: center;
+}
+
+#instrucciones {
+    color: #ffffff !important;
+    font-size: 16px;
+    text-align: center;
+}
+
